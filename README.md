@@ -43,7 +43,15 @@ Hoje além de gerenciar minhas lojas, aplico todo esse conhecimento para desenvo
   width="30px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
   />
-  
+
+  <img
+    align="left"
+  alt="SUPA BASE"
+  title="SUPA BASE"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" 
+  />
+          
   <img
   align="left"
   alt="VS CODE"

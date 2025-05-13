@@ -9,7 +9,7 @@ Com o tempo, minha atuação se expandiu: além de barbeiro, me tornei gestor e 
 
 Hoje, aplico todo esse conhecimento para desenvolver soluções que facilitem a vida de outros profissionais, sempre com o olhar de quem conhece cada detalhe da rotina na barbearia e os desafios de empreender nesse setor.
 
---
+---
 ### Tecnologias & Linguagens
 
 <img 

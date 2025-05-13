@@ -38,11 +38,19 @@ Hoje, aplico todo esse conhecimento para desenvolver soluções que facilitem a 
 
   <img
   align="left"
-  alt="JAVA SCRIPT"
-  title="JAVA SCRIPT"
+  alt="FLUTTER FLOW"
+  title="FLUTTER FLOW"
   width="30px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
   />
-          
+  
+  <img
+  align="left"
+  alt="VS CODE"
+  title="VS CODE"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+  />
+                  
           
           

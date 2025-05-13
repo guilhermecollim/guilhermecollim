@@ -1,5 +1,5 @@
 # GUILHERME COLLIM
----
+
 ### Bio
 Sempre fui apaixonado por números e soluções, o que me levou a iniciar minha trajetória acadêmica na engenharia civil. No entanto, foi na barbearia que descobri minha verdadeira vocação. O que começou como uma curiosidade logo se transformou em paixão, e decidi trocar os cálculos estruturais pela arte de transformar visuais, iniciando uma jornada desafiadora como barbeiro e empreendedor.
 

@@ -9,14 +9,6 @@ Com o tempo, minha atuação se expandiu: além de barbeiro, me tornei gestor e 
 
 Hoje além de gerenciar minhas lojas, aplico todo esse conhecimento para desenvolver soluções que facilitem a vida de outros profissionais, sempre com o olhar de quem conhece cada detalhe da rotina na barbearia e os desafios de empreender nesse setor.
 
-I have always been passionate about numbers and solutions, which led me to start my academic career in civil engineering. However, it was at the barber shop that I discovered an opportunity to become an entrepreneur. What started as curiosity soon turned into passion, and I decided to trade structural calculations for the art of transforming visuals, beginning a challenging journey as a barber and entrepreneur. On this occasion, I founded [MR. MARTIN`s - Barbearias](https://mrmartin.com.br/) .
-
-During this journey, I faced difficulties in finding management tools that truly met the needs of my business. This rekindled my interest in the exact sciences and motivated me to study Systems Analysis and Development, with the goal of creating practical and efficient solutions based on the daily routine of those who live the daily routine of an entrepreneur and their day-to-day management difficulties.
-
-Over time, my work expanded: in addition to being a barber, I became a manager and creator of new businesses. This gave me practical experience in several areas, such as accounting, law, financial management and marketing for emerging brands.
-
-Today, in addition to managing my stores, I apply all this knowledge to develop solutions that make the lives of other professionals easier, always with the perspective of someone who knows every detail of the routine in a barber shop and the challenges of undertaking this sector.
-
 ---
 ### Tecnologias & Linguagens
 

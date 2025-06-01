@@ -12,6 +12,22 @@ Hoje além de gerenciar minhas lojas, aplico todo esse conhecimento para desenvo
 ---
 ### Tecnologias & Linguagens
 
+  <img
+  align="left"
+  alt="FIGMA"
+  title="FIGMA"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+  />
+
+ <img
+  align="left"
+  alt="VS CODE"
+  title="VS CODE"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+  />
+  
 <img 
   align="left"
   alt="HTML"
@@ -26,26 +42,16 @@ Hoje além de gerenciar minhas lojas, aplico todo esse conhecimento para desenvo
   title="CSS"
   width="30px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />
+  />                
 
-           
-  <img
+ <img 
   align="left"
-  alt="VS CODE"
-  title="VS CODE"
+  alt="CSS"
+  title="CSS"
   width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-  />
-                  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"       
+  />  
   
-  <img
-  align="left"
-  alt="FIGMA"
-  title="FIGMA"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-  />
-
 <br/>
 <br/>
 

@@ -46,8 +46,8 @@ Hoje além de gerenciar minhas lojas, aplico todo esse conhecimento para desenvo
 
  <img 
   align="left"
-  alt="CSS"
-  title="CSS"
+  alt="JS"
+  title="JS"
   width="30px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"       
   />  
